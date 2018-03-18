@@ -87,7 +87,7 @@ http://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
 ```
 
-### Please let me know if you see any errors or know of a great DNSBL I left out.
+**Please let me know if you see any errors or know of a great DNSBL I left out.**
 
 ## Latest Posts
 

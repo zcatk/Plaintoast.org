@@ -6,6 +6,8 @@ categories: pfsense
 
 # DNSBL
 
+DNS Block Lists provide you an easy way to block unwanted network traffic. This is useful for blocking ads, adult content, tracking, and malware. There are a lot of lists out there and some will require you to triage and whitelist blocks of legitimate traffic. The great thing with pfblockerng (not sure about pihole) is that any duplicates are automatically removed.   
+
 ## Current Lists
 
 Below are the lists I currently have deployed using pfblockerng on pfsense.
@@ -84,6 +86,9 @@ https://raw.githubusercontent.com/WindowsLies/BlockWindows/master/hosts
 http://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
 ```
+
+### Please let me know if you see any errors or know of a great DNSBL I left out.
+
 ## Latest Posts
 
 <ul>

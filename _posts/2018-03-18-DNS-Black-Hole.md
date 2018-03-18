@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "DNS Black Hole"
+comments: true
 categories: pfsense
 ---
 

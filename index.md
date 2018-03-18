@@ -10,6 +10,10 @@ You can expect to find random content, at random times, on this site. Content fo
 
 ## Latest Posts
 
-- DNS Block List
-- *Coming Soon...*
-- *Coming Soon...*
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

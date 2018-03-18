@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "DNS Black Hole"
 categories: pfsense
 ---

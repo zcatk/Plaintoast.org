@@ -5,8 +5,13 @@ You can expect to find random content, at random times, on this site. Content fo
 ## Topics
 
 - [pfsense](/pfsense.html) - pfSense is a free and open source firewall and router that also features unified threat management, load balancing, multi WAN, and more.
-- *Coming Soon...*
-- *Coming Soon...*
+<ul>
+  {% for post in site.pages %}
+    <li>
+      <a href="{{ page.url }}">{{ page.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 ## Latest Posts
 

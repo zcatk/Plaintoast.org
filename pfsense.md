@@ -1,6 +1,6 @@
 ---
 title: pfsense
-layout: default
+layout: page
 ---
 
 # pfsense

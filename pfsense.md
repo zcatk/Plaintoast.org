@@ -1,3 +1,4 @@
 ---
-layout: default
+title: pfsense
+permalink: pfsense.html
 ---

@@ -1,6 +1,6 @@
 # Welcome to Plaintoast.org
 
-You can expect to find lots of random content on this site focusing on IT and security. I have no real plan so feel free to bookmark, contribute, or [email me](ZcatK@plaintoast.org) your suggestions/feedback. 
+You can expect to find random content, at random times, on this site. Content focuses on IT and security, but will also touch on other topics of interest. Feel free to bookmark, contribute, or [email me](ZcatK@plaintoast.org) your suggestions/feedback. 
 
 ## Topics
 

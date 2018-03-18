@@ -5,9 +5,11 @@ You can expect to find random content, at random times, on this site. Content fo
 ## Topics
 
 - pfsense
-- ?
-- ?
+- *Coming Soon...*
+- *Coming Soon...*
 
 ## Latest Posts
 
-None
+- DNS Block List
+- *Coming Soon...*
+- *Coming Soon...*

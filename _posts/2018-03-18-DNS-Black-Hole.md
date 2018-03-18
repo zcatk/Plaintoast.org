@@ -8,6 +8,8 @@ categories: pfsense
 
 ## Current Lists
 
+Below are the lists I currently have deployed using pfblockerng on pfsense.
+
 ### Pihole DNSBL
 ```pihole
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts

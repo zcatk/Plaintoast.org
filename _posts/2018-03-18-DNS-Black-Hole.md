@@ -89,7 +89,7 @@ http://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
 ```
 
-**Let me know of errors or great DNSBLs I left out in the comments below.**
+**Please comment below with your own DNSBLs, feedback, or suggestions.**
 
 <div id="disqus_thread"></div>
 <script>
@@ -121,5 +121,3 @@ s.setAttribute('data-timestamp', +new Date());
     </li>
   {% endfor %}
 </ul>
-
-[Back Home](https://plaintoast.org)

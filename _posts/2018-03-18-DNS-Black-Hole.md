@@ -88,19 +88,7 @@ http://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
 ```
 
-**Please let me know if you see any errors or know of a great DNSBL I left out.**
-
-## Latest Posts
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-[Back Home](https://plaintoast.org)
+**Let me know of errors or great DNSBLs I left out in the comments below.**
 
 <div id="disqus_thread"></div>
 <script>
@@ -122,3 +110,15 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+## Latest Posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+[Back Home](https://plaintoast.org)

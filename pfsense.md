@@ -1,5 +1,5 @@
 ---
-title: pfsense
+title: "pfsense"
 layout: default
 ---
 [Home](https://plaintoast.org)

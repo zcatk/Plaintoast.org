@@ -4,7 +4,7 @@ title: "DNS Black Hole"
 comments: true
 categories: pfsense
 ---
-[Home](https://plaintoast.org) | [pfsense](https://plaintoast.org/pfsense.html)
+[Home](https://plaintoast.org) - [pfsense](https://plaintoast.org/pfsense.html)
 
 # DNSBL
 

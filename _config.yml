@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
 timezone: America/Los_Angeles
+title: "Plaintoast"
+title_separator: "-"

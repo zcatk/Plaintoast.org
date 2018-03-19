@@ -1,4 +1,4 @@
-{% include footer.html %}
+{% include head.html %}
 
 # Welcome to Plaintoast.org
 

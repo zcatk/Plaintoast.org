@@ -6,7 +6,7 @@ categories: pfsense
 ---
 [Home](https://plaintoast.org) - [pfsense](https://plaintoast.org/pfsense.html)
 
-# Quick and Easy XBOX Open NAT Guide
+# XBOX Open NAT Guide
 
 Open NAT for XBOX behind pfsense requires either port triggering or port forwarding to obtain open NAT. This is a quick guide on how to obtain open NAT while limiting UPnP to only your XBOX. This guide also applies to other devices Playstation or the Nintendo Switch.   
 

@@ -19,7 +19,7 @@ Open NAT for XBOX behind pfsense requires either port triggering or port forward
 4) Save
 ``` 
 
-## ENABLE UPnP
+## Enable UPnP
 
 ```upnp
 1) Navigate to Services/UPnP & NAT-PMP

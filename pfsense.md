@@ -11,3 +11,5 @@ pfSense is a free and open source firewall and router that also features unified
 ## Posts
 
 - [DNS Block List](https://plaintoast.org/pfsense/2018/03/18/DNS-Black-Hole.html): My current DNSBL deployed using pfblockerng on pfsense. 
+
+- [XBOX Open NAT Guide](https://plaintoast.org/pfsense/2018/03/19/XBOX-Open-NAT.html): Quick guide on how to obtain open NAT while limiting UPnP to only your XBOX. 

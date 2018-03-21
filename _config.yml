@@ -3,19 +3,3 @@ timezone: America/Los_Angeles
 title: "Plaintoast"
 locale: "en-US"
 description: "Just IT and security"
-url: "https://plaintoast.org"
-# Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji

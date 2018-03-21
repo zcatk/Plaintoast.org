@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
 timezone: America/Los_Angeles
 title: "Plaintoast"
-plugins:
-  - jekyll-seo-tag
+locale: "en-US"
+description: "Just IT and security"
+url: "https://plaintoast.org"

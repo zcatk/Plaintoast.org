@@ -2,3 +2,4 @@ theme: jekyll-theme-slate
 timezone: America/Los_Angeles
 title: "Plaintoast"
 locale: "en-US"
+google_analytics: UA-115927520-1

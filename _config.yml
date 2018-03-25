@@ -1,5 +1,7 @@
 theme: jekyll-theme-slate
 timezone: America/Los_Angeles
-title: "Plaintoast"
-locale: "en-US"
+title: Plaintoast
+description: Just IT and Security.
+locale: en-US
 google_analytics: UA-115927520-1
+show_downloads: false

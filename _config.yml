@@ -5,3 +5,6 @@ description: Just IT and Security.
 locale: en-US
 google_analytics: UA-115927520-1
 show_downloads: false
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

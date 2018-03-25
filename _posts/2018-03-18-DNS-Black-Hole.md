@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "DNS Black Hole"
+title: DNS Black Hole
+description: My currently deployed DNSBL using pfblockerng on pfsense.
+author: ZcatK/Plaintoast
 comments: true
 categories: pfsense
 ---

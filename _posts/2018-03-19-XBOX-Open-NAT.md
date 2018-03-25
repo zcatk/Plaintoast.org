@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "XBOX Open NAT"
+title: XBOX Open NAT
+description: Quick guide on how to obtain open NAT while limiting UPnP to only your XBOX.
+author: ZcatK/Plaintoast
 comments: true
 categories: pfsense
 ---

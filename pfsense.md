@@ -1,5 +1,7 @@
 ---
-title: "pfsense"
+title: pfsense
+description: A free and open source firewall/router that features unified threat management, load balancing, multi WAN, and more.
+author: ZcatK/Plaintoast
 layout: default
 ---
 [Home](https://plaintoast.org)

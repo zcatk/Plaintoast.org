@@ -11,4 +11,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-avatar
-downloads: true
+show downloads: true

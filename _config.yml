@@ -10,3 +10,4 @@ show_downloads: false
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed

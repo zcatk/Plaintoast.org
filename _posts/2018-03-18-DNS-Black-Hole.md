@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: DNS Black Hole
 description: My currently deployed DNSBL using pfblockerng on pfsense.
 comments: true

@@ -26,7 +26,7 @@ Open NAT for XBOX behind pfsense requires either port triggering or port forward
 1) Navigate to Services/UPnP & NAT-PMP
 2) Select "Enable" and "UPnP Port Mapping"
 3) Select "Default Deny"
-4) Add the following ACL Entries: allow 53-65535 192.168.1.200/32 53-65535 
+4) Add the following ACL Entries: allow 53-65535 *static IP you created/32* 53-65535 
 5) Save
 ``` 
 

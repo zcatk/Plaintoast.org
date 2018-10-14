@@ -92,6 +92,7 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-g
 
 **Please comment below with your own DNSBLs, feedback, or suggestions.**
 
+{% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
 
@@ -112,6 +113,7 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}
 
 ## Latest Posts
 

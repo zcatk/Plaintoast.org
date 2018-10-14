@@ -1,11 +1,11 @@
 ---
 layout: post
 title: DNS Black Hole
-description: My currently deployed DNSBL using pfblockerng on pfsense.
+description: My currently deployed DNSBL using pfblockerng on pfSense.
 comments: true
-categories: pfsense
+categories: pfSense
 ---
-[Home](https://plaintoast.org) - [pfsense](https://plaintoast.org/pfsense.html)
+[Home](https://plaintoast.org) - [pfSense](https://plaintoast.org/pfSense.html)
 
 # DNSBL
 
@@ -13,7 +13,7 @@ DNS Block Lists provide you an easy way to block unwanted network traffic. This 
 
 ## Current Lists
 
-Below are the lists I currently have deployed using pfblockerng on pfsense.
+Below are the lists I currently have deployed using pfblockerng on pfSense.
 
 ### Pihole DNSBL
 ```pihole

@@ -53,6 +53,7 @@ At this point you should have open NAT on your XBOX using UPnP that is restricte
 
 **Please let me know if I missed something or could improve this solution in the comments below.**
 
+{% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
 
@@ -73,6 +74,7 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}
 
 ## Latest Posts
 

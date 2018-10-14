@@ -3,18 +3,18 @@ layout: post
 title: XBOX Open NAT
 description: Quick guide on how to obtain open NAT while limiting UPnP to only your XBOX.
 comments: true
-categories: pfsense
+categories: pfSense
 ---
-[Home](https://plaintoast.org) - [pfsense](https://plaintoast.org/pfsense.html)
+[Home](https://plaintoast.org) - [pfSense](https://plaintoast.org/pfSense.html)
 
 # XBOX Open NAT Guide
 
-Open NAT for XBOX behind pfsense requires either port triggering or port forwarding to obtain. This is a quick guide on how to obtain open NAT while limiting UPnP to only your XBOX. This guide also applies to other devices like the Playstation or Nintendo Switch.   
+Open NAT for XBOX behind pfSense requires either port triggering or port forwarding to obtain. This is a quick guide on how to obtain open NAT while limiting UPnP to only your XBOX. This guide also applies to other devices like the Playstation or Nintendo Switch.   
 
 ## Create Static IP
 
 ```staticIP
-1) Login to pfsense and navigate to Status/DHCP Leases
+1) Login to pfSense and navigate to Status/DHCP Leases
 2) Select the white plus box (you should see "add static mapping" on hover
 3) Enter your static IP
 4) Save

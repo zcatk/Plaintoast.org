@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DNS Black Hole
-description: My currently deployed DNSBL using pfblockerng on pfSense.
+description: My currently deployed DNSBL using pfBlockerNG on pfSense.
 comments: true
 categories: pfSense
 ---
@@ -9,11 +9,11 @@ categories: pfSense
 
 # DNSBL
 
-DNS Block Lists provide you an easy way to block unwanted network traffic. This is useful for blocking ads, adult content, tracking, and malware. There are a lot of lists out there and some will require you to triage and whitelist blocks of legitimate traffic. The great thing with pfblockerng (not sure about pihole) is that any duplicates are automatically removed.   
+DNS Block Lists provide you an easy way to block unwanted network traffic. This is useful for blocking ads, adult content, tracking, and malware. There are a lot of lists out there and some will require you to triage and whitelist blocks of legitimate traffic. The great thing with pfBlockerNG (not sure about pihole) is that any duplicates are automatically removed.   
 
 ## Current Lists
 
-Below are the lists I currently have deployed using pfblockerng on pfSense.
+Below are the lists I currently have deployed using pfBlockerNG on pfSense.
 
 ### Pihole DNSBL
 ```pihole

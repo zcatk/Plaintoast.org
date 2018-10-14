@@ -1,11 +1,11 @@
 ---
-title: pfsense
+title: pfSense
 description: A free and open source firewall/router that features unified threat management, load balancing, multi WAN, and more.
 layout: page
 ---
 [Home](https://plaintoast.org)
 
-# pfsense
+# pfSense
 
 pfSense is a free and open source firewall and router that also features unified threat management, load balancing, multi WAN, and more.
 

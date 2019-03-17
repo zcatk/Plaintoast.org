@@ -15,4 +15,4 @@ Python is an interpreted, high-level, general-purpose programming language. Crea
 
 - [Flask Tutorial](#): Flask writeup coming soon. 
 
-- [PythonAnywhere Webapp Deployment](#): PythonAnywhere web app deployment writeup coming soon. 
+- [PythonAnywhere Web App Deployment](#): PythonAnywhere web app deployment writeup coming soon. 
